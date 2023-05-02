@@ -1,5 +1,5 @@
-
-
+# SQL Server on Azure Virtual Machine Architecture
+![alt text](https://github.com/oscaroscarlam/AzureDatabase/blob/main/SQL%20Server%20on%20Azure%20Virtual%20Machines/SQL%20Server%20on%20Azure%20VM.png)
 
 ### SQL Server Liense
 #### SQL Server Enterprise Virtual Machines Pricing
